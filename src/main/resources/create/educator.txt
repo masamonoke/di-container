@@ -1,0 +1,3493 @@
+{
+    id: 1
+    firstName: Дарья
+    lastName: Бубль
+    groupNumber: 2
+    rating: 2.2
+}
+{
+    id: 2
+    firstName: Наталья
+    lastName: Пеп
+    groupNumber: 3
+    rating: 3.6
+}
+{
+	id: 3
+	firstName: Edward
+	lastName: Miller
+	groupNumber: 1
+	rating: 4.600386884804303
+}
+{
+	id: 4
+	firstName: Harper
+	lastName: Walker
+	groupNumber: 7
+	rating: 7.450490133882862
+}
+{
+	id: 5
+	firstName: Samuel
+	lastName: Jackson
+	groupNumber: 7
+	rating: 1.648052055211405
+}
+{
+	id: 6
+	firstName: Arlo
+	lastName: Ramirez
+	groupNumber: 7
+	rating: 4.911625769397114
+}
+{
+	id: 7
+	firstName: Harper
+	lastName: Smith
+	groupNumber: 5
+	rating: 9.745876849001323
+}
+{
+	id: 8
+	firstName: Finley
+	lastName: Adams
+	groupNumber: 8
+	rating: 4.377992032282158
+}
+{
+	id: 9
+	firstName: Mila
+	lastName: Ramirez
+	groupNumber: 7
+	rating: 3.8550686799481024
+}
+{
+	id: 10
+	firstName: Lily
+	lastName: Adams
+	groupNumber: 6
+	rating: 5.313517555713677
+}
+{
+	id: 11
+	firstName: Stella
+	lastName: Wright
+	groupNumber: 3
+	rating: 8.144059256671834
+}
+{
+	id: 12
+	firstName: Theodore
+	lastName: Harris
+	groupNumber: 6
+	rating: 6.699538703525887
+}
+{
+	id: 13
+	firstName: Daniel
+	lastName: Martinez
+	groupNumber: 7
+	rating: 6.963520569504404
+}
+{
+	id: 14
+	firstName: Jamie
+	lastName: Moore
+	groupNumber: 2
+	rating: 3.0059482945589364
+}
+{
+	id: 15
+	firstName: Edward
+	lastName: Jackson
+	groupNumber: 2
+	rating: 2.838253432644529
+}
+{
+	id: 16
+	firstName: Hugo
+	lastName: Davis
+	groupNumber: 4
+	rating: 4.48362397281967
+}
+{
+	id: 17
+	firstName: Lucas
+	lastName: Brown
+	groupNumber: 7
+	rating: 3.488613812686738
+}
+{
+	id: 18
+	firstName: Hugo
+	lastName: Lopez
+	groupNumber: 6
+	rating: 5.800350707808827
+}
+{
+	id: 19
+	firstName: Emma
+	lastName: Moore
+	groupNumber: 5
+	rating: 5.070729658747645
+}
+{
+	id: 20
+	firstName: Harper
+	lastName: Smith
+	groupNumber: 5
+	rating: 4.930748139973655
+}
+{
+	id: 21
+	firstName: Logan
+	lastName: Ramirez
+	groupNumber: 2
+	rating: 9.576981648133872
+}
+{
+	id: 22
+	firstName: Samuel
+	lastName: Williams
+	groupNumber: 2
+	rating: 4.725183296765876
+}
+{
+	id: 23
+	firstName: Sofia
+	lastName: Smith
+	groupNumber: 2
+	rating: 3.7070262271343184
+}
+{
+	id: 24
+	firstName: Gianna
+	lastName: Flores
+	groupNumber: 5
+	rating: 4.994982987512035
+}
+{
+	id: 25
+	firstName: Daniel
+	lastName: Jackson
+	groupNumber: 2
+	rating: 9.787563703264508
+}
+{
+	id: 26
+	firstName: Hazel
+	lastName: Hall
+	groupNumber: 8
+	rating: 7.572582588893375
+}
+{
+	id: 27
+	firstName: Leo
+	lastName: Harris
+	groupNumber: 4
+	rating: 7.662964488636474
+}
+{
+	id: 28
+	firstName: George
+	lastName: Davis
+	groupNumber: 7
+	rating: 7.093286954761616
+}
+{
+	id: 29
+	firstName: Tommy
+	lastName: Flores
+	groupNumber: 4
+	rating: 5.06722759509903
+}
+{
+	id: 30
+	firstName: James
+	lastName: Wilson
+	groupNumber: 7
+	rating: 5.425406534809484
+}
+{
+	id: 31
+	firstName: Lilith
+	lastName: Mitchell
+	groupNumber: 1
+	rating: 5.0797048622528385
+}
+{
+	id: 32
+	firstName: Aila
+	lastName: Thompson
+	groupNumber: 5
+	rating: 8.900174801875288
+}
+{
+	id: 33
+	firstName: James
+	lastName: Wright
+	groupNumber: 2
+	rating: 8.38159127085109
+}
+{
+	id: 34
+	firstName: Harry
+	lastName: Sanchez
+	groupNumber: 3
+	rating: 8.224844395478287
+}
+{
+	id: 35
+	firstName: James
+	lastName: Anderson
+	groupNumber: 5
+	rating: 3.135316009356071
+}
+{
+	id: 36
+	firstName: Jack
+	lastName: Johnson
+	groupNumber: 1
+	rating: 4.548161381828438
+}
+{
+	id: 37
+	firstName: Noah
+	lastName: Garcia
+	groupNumber: 2
+	rating: 5.790617034050767
+}
+{
+	id: 38
+	firstName: Stella
+	lastName: Harris
+	groupNumber: 8
+	rating: 5.921647281597335
+}
+{
+	id: 39
+	firstName: Hazel
+	lastName: Flores
+	groupNumber: 9
+	rating: 8.37612935458349
+}
+{
+	id: 40
+	firstName: Katelyn
+	lastName: Ramirez
+	groupNumber: 7
+	rating: 4.449588391294748
+}
+{
+	id: 41
+	firstName: Max
+	lastName: Anderson
+	groupNumber: 7
+	rating: 9.936414284081344
+}
+{
+	id: 42
+	firstName: Arthur
+	lastName: Anderson
+	groupNumber: 3
+	rating: 7.349000513647924
+}
+{
+	id: 43
+	firstName: Stella
+	lastName: Taylor
+	groupNumber: 1
+	rating: 7.46623248779964
+}
+{
+	id: 44
+	firstName: Roselyn
+	lastName: Lee
+	groupNumber: 4
+	rating: 1.813238919283291
+}
+{
+	id: 45
+	firstName: Oliver
+	lastName: Hall
+	groupNumber: 8
+	rating: 6.820503714013796
+}
+{
+	id: 46
+	firstName: Jack
+	lastName: Rodriguez
+	groupNumber: 7
+	rating: 6.786898995993814
+}
+{
+	id: 47
+	firstName: Henry
+	lastName: Martinez
+	groupNumber: 1
+	rating: 6.970379357453295
+}
+{
+	id: 48
+	firstName: Gianna
+	lastName: Flores
+	groupNumber: 5
+	rating: 5.033866060508326
+}
+{
+	id: 49
+	firstName: Theo
+	lastName: Williams
+	groupNumber: 5
+	rating: 2.0190570902275504
+}
+{
+	id: 50
+	firstName: William
+	lastName: Jones
+	groupNumber: 7
+	rating: 4.668891054935727
+}
+{
+	id: 51
+	firstName: William
+	lastName: Lopez
+	groupNumber: 3
+	rating: 1.4414418811668586
+}
+{
+	id: 52
+	firstName: Max
+	lastName: Allen
+	groupNumber: 3
+	rating: 4.028650813036608
+}
+{
+	id: 53
+	firstName: Karla
+	lastName: Walker
+	groupNumber: 2
+	rating: 6.590954842995407
+}
+{
+	id: 54
+	firstName: Karla
+	lastName: Taylor
+	groupNumber: 4
+	rating: 3.29873339674243
+}
+{
+	id: 55
+	firstName: Lea
+	lastName: Baker
+	groupNumber: 4
+	rating: 4.0807770826481296
+}
+{
+	id: 56
+	firstName: Grace
+	lastName: Lopez
+	groupNumber: 9
+	rating: 7.15146040415075
+}
+{
+	id: 57
+	firstName: Charlie
+	lastName: Flores
+	groupNumber: 6
+	rating: 6.159060452741613
+}
+{
+	id: 58
+	firstName: Ellie
+	lastName: Williams
+	groupNumber: 7
+	rating: 6.7753867310467015
+}
+{
+	id: 59
+	firstName: Arthur
+	lastName: Williams
+	groupNumber: 3
+	rating: 2.3152166845032838
+}
+{
+	id: 60
+	firstName: Elijah
+	lastName: Davis
+	groupNumber: 3
+	rating: 9.7416645810744
+}
+{
+	id: 61
+	firstName: Lucas
+	lastName: Anderson
+	groupNumber: 3
+	rating: 3.0538919046391584
+}
+{
+	id: 62
+	firstName: William
+	lastName: Wilson
+	groupNumber: 1
+	rating: 4.754081033552842
+}
+{
+	id: 63
+	firstName: Muhammad
+	lastName: Walker
+	groupNumber: 8
+	rating: 3.655368215378766
+}
+{
+	id: 64
+	firstName: Daniel
+	lastName: Adams
+	groupNumber: 7
+	rating: 9.152610154459316
+}
+{
+	id: 65
+	firstName: Luna
+	lastName: Jones
+	groupNumber: 5
+	rating: 1.7224221679144054
+}
+{
+	id: 66
+	firstName: Emily
+	lastName: Wilson
+	groupNumber: 1
+	rating: 4.6227104968777155
+}
+{
+	id: 67
+	firstName: Harry
+	lastName: Johnson
+	groupNumber: 9
+	rating: 3.5893769157992472
+}
+{
+	id: 68
+	firstName: Evelyn
+	lastName: Lopez
+	groupNumber: 4
+	rating: 7.830501590269463
+}
+{
+	id: 69
+	firstName: Arlo
+	lastName: Walker
+	groupNumber: 9
+	rating: 5.167069857546841
+}
+{
+	id: 70
+	firstName: James
+	lastName: Johnson
+	groupNumber: 8
+	rating: 3.9045490478391134
+}
+{
+	id: 71
+	firstName: Florence
+	lastName: Baker
+	groupNumber: 4
+	rating: 3.435118560156645
+}
+{
+	id: 72
+	firstName: Lilith
+	lastName: Moore
+	groupNumber: 5
+	rating: 6.440746637177766
+}
+{
+	id: 73
+	firstName: Sofia
+	lastName: Lopez
+	groupNumber: 6
+	rating: 5.735366609360836
+}
+{
+	id: 74
+	firstName: Aila
+	lastName: Rodriguez
+	groupNumber: 1
+	rating: 6.172320109348327
+}
+{
+	id: 75
+	firstName: Rory
+	lastName: Adams
+	groupNumber: 6
+	rating: 5.440357084218738
+}
+{
+	id: 76
+	firstName: Penelope
+	lastName: Harris
+	groupNumber: 1
+	rating: 6.607693308872742
+}
+{
+	id: 77
+	firstName: Edward
+	lastName: Wilson
+	groupNumber: 6
+	rating: 3.3908661731877205
+}
+{
+	id: 78
+	firstName: Harrison
+	lastName: Hernandez
+	groupNumber: 4
+	rating: 3.176262370931149
+}
+{
+	id: 79
+	firstName: Jack
+	lastName: Baker
+	groupNumber: 2
+	rating: 4.426167053007619
+}
+{
+	id: 80
+	firstName: Logan
+	lastName: Allen
+	groupNumber: 4
+	rating: 7.256244309661889
+}
+{
+	id: 81
+	firstName: Rory
+	lastName: Thompson
+	groupNumber: 4
+	rating: 5.6838658704860725
+}
+{
+	id: 82
+	firstName: Aila
+	lastName: Wright
+	groupNumber: 5
+	rating: 9.89904980399736
+}
+{
+	id: 83
+	firstName: Leo
+	lastName: Walker
+	groupNumber: 3
+	rating: 6.292611810253883
+}
+{
+	id: 84
+	firstName: Florence
+	lastName: Allen
+	groupNumber: 3
+	rating: 9.113155865433129
+}
+{
+	id: 85
+	firstName: Noah
+	lastName: Jackson
+	groupNumber: 1
+	rating: 3.9748350554420653
+}
+{
+	id: 86
+	firstName: Alexander
+	lastName: Harris
+	groupNumber: 3
+	rating: 8.274844476646486
+}
+{
+	id: 87
+	firstName: Mila
+	lastName: Smith
+	groupNumber: 9
+	rating: 9.267307339986672
+}
+{
+	id: 88
+	firstName: Tommy
+	lastName: Rodriguez
+	groupNumber: 6
+	rating: 6.166159633364344
+}
+{
+	id: 89
+	firstName: James
+	lastName: Anderson
+	groupNumber: 3
+	rating: 7.670193312774496
+}
+{
+	id: 90
+	firstName: Emilia
+	lastName: Williams
+	groupNumber: 3
+	rating: 2.7775742995542574
+}
+{
+	id: 91
+	firstName: Bridget
+	lastName: Hall
+	groupNumber: 7
+	rating: 1.7881398920365512
+}
+{
+	id: 92
+	firstName: Bridget
+	lastName: Baker
+	groupNumber: 2
+	rating: 9.166358531224198
+}
+{
+	id: 93
+	firstName: Lily
+	lastName: Anderson
+	groupNumber: 9
+	rating: 6.070811100295288
+}
+{
+	id: 94
+	firstName: Lilith
+	lastName: Harris
+	groupNumber: 4
+	rating: 5.405345933885311
+}
+{
+	id: 95
+	firstName: Lily
+	lastName: Anderson
+	groupNumber: 5
+	rating: 2.146159096088539
+}
+{
+	id: 96
+	firstName: Avery
+	lastName: Wright
+	groupNumber: 1
+	rating: 7.574536036385426
+}
+{
+	id: 97
+	firstName: Anahi
+	lastName: Miller
+	groupNumber: 9
+	rating: 7.85596268448213
+}
+{
+	id: 98
+	firstName: Rory
+	lastName: Hernandez
+	groupNumber: 5
+	rating: 1.3828750035263164
+}
+{
+	id: 99
+	firstName: George
+	lastName: Miller
+	groupNumber: 3
+	rating: 8.139889559331854
+}
+{
+	id: 100
+	firstName: Teddy
+	lastName: Hernandez
+	groupNumber: 1
+	rating: 4.394404200292968
+}
+{
+	id: 101
+	firstName: Hugo
+	lastName: Adams
+	groupNumber: 9
+	rating: 5.245267910791485
+}
+{
+	id: 102
+	firstName: Scarlett
+	lastName: Davis
+	groupNumber: 9
+	rating: 9.756736380327505
+}
+{
+	id: 103
+	firstName: Jamie
+	lastName: Garcia
+	groupNumber: 2
+	rating: 3.4066558091470593
+}
+{
+	id: 104
+	firstName: Harrison
+	lastName: Hall
+	groupNumber: 6
+	rating: 8.54240944665551
+}
+{
+	id: 105
+	firstName: Layla
+	lastName: Moore
+	groupNumber: 1
+	rating: 3.5266976434704898
+}
+{
+	id: 106
+	firstName: Emilia
+	lastName: Lee
+	groupNumber: 3
+	rating: 6.477248914453996
+}
+{
+	id: 107
+	firstName: Teddy
+	lastName: Hall
+	groupNumber: 6
+	rating: 8.913566410965895
+}
+{
+	id: 108
+	firstName: Theodore
+	lastName: Lopez
+	groupNumber: 2
+	rating: 9.212183420837023
+}
+{
+	id: 109
+	firstName: Lucas
+	lastName: Miller
+	groupNumber: 7
+	rating: 9.132210311336518
+}
+{
+	id: 110
+	firstName: Allyson
+	lastName: Harris
+	groupNumber: 1
+	rating: 5.46880385120753
+}
+{
+	id: 111
+	firstName: Mila
+	lastName: Sanchez
+	groupNumber: 9
+	rating: 5.632605119143847
+}
+{
+	id: 112
+	firstName: Camila
+	lastName: Flores
+	groupNumber: 1
+	rating: 8.748932244339276
+}
+{
+	id: 113
+	firstName: Oliver
+	lastName: Johnson
+	groupNumber: 9
+	rating: 5.235599354730455
+}
+{
+	id: 114
+	firstName: Isla
+	lastName: Harris
+	groupNumber: 1
+	rating: 8.861613228093837
+}
+{
+	id: 115
+	firstName: Joshua
+	lastName: Davis
+	groupNumber: 6
+	rating: 2.2629075298812626
+}
+{
+	id: 116
+	firstName: Finley
+	lastName: Mitchell
+	groupNumber: 3
+	rating: 6.917102768759886
+}
+{
+	id: 117
+	firstName: Theo
+	lastName: Allen
+	groupNumber: 1
+	rating: 9.186651248694034
+}
+{
+	id: 118
+	firstName: Archie
+	lastName: Mitchell
+	groupNumber: 5
+	rating: 4.356594796214807
+}
+{
+	id: 119
+	firstName: Ava
+	lastName: Sanchez
+	groupNumber: 1
+	rating: 3.009275823525875
+}
+{
+	id: 120
+	firstName: Avery
+	lastName: Rodriguez
+	groupNumber: 8
+	rating: 2.106526990522103
+}
+{
+	id: 121
+	firstName: Zahra
+	lastName: Wilson
+	groupNumber: 5
+	rating: 4.837000587338385
+}
+{
+	id: 122
+	firstName: Leo
+	lastName: Moore
+	groupNumber: 1
+	rating: 8.280863819681986
+}
+{
+	id: 123
+	firstName: Teddy
+	lastName: Brown
+	groupNumber: 8
+	rating: 4.592386927165363
+}
+{
+	id: 124
+	firstName: Daniel
+	lastName: Wright
+	groupNumber: 9
+	rating: 3.0475268191817526
+}
+{
+	id: 125
+	firstName: Johanna
+	lastName: Walker
+	groupNumber: 2
+	rating: 9.337054503770458
+}
+{
+	id: 126
+	firstName: Jack
+	lastName: Lee
+	groupNumber: 7
+	rating: 6.179298226719261
+}
+{
+	id: 127
+	firstName: Alexander
+	lastName: Anderson
+	groupNumber: 2
+	rating: 9.91308581094264
+}
+{
+	id: 128
+	firstName: Zoe
+	lastName: Taylor
+	groupNumber: 4
+	rating: 8.845204989639615
+}
+{
+	id: 129
+	firstName: Ellie
+	lastName: Hernandez
+	groupNumber: 1
+	rating: 3.8794464798304222
+}
+{
+	id: 130
+	firstName: Layla
+	lastName: Miller
+	groupNumber: 2
+	rating: 6.472150869707416
+}
+{
+	id: 131
+	firstName: Hayley
+	lastName: Anderson
+	groupNumber: 6
+	rating: 3.0821406078779914
+}
+{
+	id: 132
+	firstName: Johanna
+	lastName: Hernandez
+	groupNumber: 4
+	rating: 8.221391359839696
+}
+{
+	id: 133
+	firstName: Isla
+	lastName: Smith
+	groupNumber: 4
+	rating: 5.763739985580292
+}
+{
+	id: 134
+	firstName: Olivia
+	lastName: Johnson
+	groupNumber: 7
+	rating: 7.826127269890676
+}
+{
+	id: 135
+	firstName: Ava
+	lastName: Hall
+	groupNumber: 4
+	rating: 1.8351886603368355
+}
+{
+	id: 136
+	firstName: Layla
+	lastName: Sanchez
+	groupNumber: 6
+	rating: 8.669924523341333
+}
+{
+	id: 137
+	firstName: William
+	lastName: Garcia
+	groupNumber: 8
+	rating: 5.329549392782579
+}
+{
+	id: 138
+	firstName: Lilith
+	lastName: Allen
+	groupNumber: 4
+	rating: 4.604679677467887
+}
+{
+	id: 139
+	firstName: Scarlett
+	lastName: Lee
+	groupNumber: 4
+	rating: 9.961111542947156
+}
+{
+	id: 140
+	firstName: Jack
+	lastName: Hall
+	groupNumber: 5
+	rating: 6.199745481339885
+}
+{
+	id: 141
+	firstName: Sebastian
+	lastName: Hall
+	groupNumber: 6
+	rating: 2.8826070150607923
+}
+{
+	id: 142
+	firstName: Lily
+	lastName: Mitchell
+	groupNumber: 4
+	rating: 9.50382735850561
+}
+{
+	id: 143
+	firstName: Louie
+	lastName: Flores
+	groupNumber: 2
+	rating: 1.4736818769722544
+}
+{
+	id: 144
+	firstName: Joelle
+	lastName: Harris
+	groupNumber: 4
+	rating: 1.019528711008074
+}
+{
+	id: 145
+	firstName: Johanna
+	lastName: Johnson
+	groupNumber: 1
+	rating: 2.5704657180229775
+}
+{
+	id: 146
+	firstName: Ava
+	lastName: Hall
+	groupNumber: 1
+	rating: 6.302332000310381
+}
+{
+	id: 147
+	firstName: Grace
+	lastName: Anderson
+	groupNumber: 3
+	rating: 4.108293002963421
+}
+{
+	id: 148
+	firstName: Harper
+	lastName: Adams
+	groupNumber: 3
+	rating: 2.3028341789952336
+}
+{
+	id: 149
+	firstName: Hugo
+	lastName: Martinez
+	groupNumber: 4
+	rating: 7.485836537172258
+}
+{
+	id: 150
+	firstName: Samuel
+	lastName: Mitchell
+	groupNumber: 5
+	rating: 1.049617197695243
+}
+{
+	id: 151
+	firstName: Emilia
+	lastName: Anderson
+	groupNumber: 2
+	rating: 4.968341775461436
+}
+{
+	id: 152
+	firstName: Daniel
+	lastName: Garcia
+	groupNumber: 3
+	rating: 9.856275197001306
+}
+{
+	id: 153
+	firstName: Jamie
+	lastName: Smith
+	groupNumber: 3
+	rating: 3.20685315827036
+}
+{
+	id: 154
+	firstName: Charlotte
+	lastName: Hall
+	groupNumber: 3
+	rating: 6.289929759630667
+}
+{
+	id: 155
+	firstName: Lucas
+	lastName: Allen
+	groupNumber: 2
+	rating: 9.534529015243795
+}
+{
+	id: 156
+	firstName: Jamie
+	lastName: Jackson
+	groupNumber: 2
+	rating: 4.230229331222518
+}
+{
+	id: 157
+	firstName: Roselyn
+	lastName: Thompson
+	groupNumber: 7
+	rating: 3.6680660048219336
+}
+{
+	id: 158
+	firstName: Lilith
+	lastName: Allen
+	groupNumber: 9
+	rating: 6.724386648811166
+}
+{
+	id: 159
+	firstName: Evelyn
+	lastName: Brown
+	groupNumber: 2
+	rating: 3.7744571283617283
+}
+{
+	id: 160
+	firstName: Olivia
+	lastName: Jones
+	groupNumber: 7
+	rating: 4.189772066956364
+}
+{
+	id: 161
+	firstName: Adam
+	lastName: Lee
+	groupNumber: 8
+	rating: 6.8652904424414665
+}
+{
+	id: 162
+	firstName: Mila
+	lastName: Adams
+	groupNumber: 2
+	rating: 5.053239650661343
+}
+{
+	id: 163
+	firstName: Victoria
+	lastName: Williams
+	groupNumber: 5
+	rating: 3.8434693165163165
+}
+{
+	id: 164
+	firstName: Hazel
+	lastName: Johnson
+	groupNumber: 1
+	rating: 5.4925357948128415
+}
+{
+	id: 165
+	firstName: Muhammad
+	lastName: Hall
+	groupNumber: 2
+	rating: 2.525988221169335
+}
+{
+	id: 166
+	firstName: Benjamin
+	lastName: Williams
+	groupNumber: 8
+	rating: 4.739794216557692
+}
+{
+	id: 167
+	firstName: Arthur
+	lastName: Allen
+	groupNumber: 9
+	rating: 4.412339462272568
+}
+{
+	id: 168
+	firstName: Penelope
+	lastName: Smith
+	groupNumber: 8
+	rating: 2.86426917930347
+}
+{
+	id: 169
+	firstName: Isla
+	lastName: Harris
+	groupNumber: 7
+	rating: 8.546826502691413
+}
+{
+	id: 170
+	firstName: George
+	lastName: Flores
+	groupNumber: 8
+	rating: 3.8117286921779114
+}
+{
+	id: 171
+	firstName: Joseph
+	lastName: Allen
+	groupNumber: 8
+	rating: 7.277637451055876
+}
+{
+	id: 172
+	firstName: Oscar
+	lastName: Lee
+	groupNumber: 8
+	rating: 2.115198463104349
+}
+{
+	id: 173
+	firstName: Layla
+	lastName: Baker
+	groupNumber: 7
+	rating: 1.191572064682712
+}
+{
+	id: 174
+	firstName: Albie
+	lastName: Hernandez
+	groupNumber: 1
+	rating: 5.712609247351765
+}
+{
+	id: 175
+	firstName: Freddie
+	lastName: Mitchell
+	groupNumber: 2
+	rating: 1.0095148499380875
+}
+{
+	id: 176
+	firstName: Anahi
+	lastName: Ramirez
+	groupNumber: 9
+	rating: 6.848529869919566
+}
+{
+	id: 177
+	firstName: Samuel
+	lastName: Brown
+	groupNumber: 3
+	rating: 1.8078209853198182
+}
+{
+	id: 178
+	firstName: Ethan
+	lastName: Wright
+	groupNumber: 1
+	rating: 1.5580796428064123
+}
+{
+	id: 179
+	firstName: Grace
+	lastName: Davis
+	groupNumber: 9
+	rating: 9.842667583817917
+}
+{
+	id: 180
+	firstName: Jamie
+	lastName: Thompson
+	groupNumber: 6
+	rating: 8.138167311004427
+}
+{
+	id: 181
+	firstName: William
+	lastName: Davis
+	groupNumber: 5
+	rating: 7.887261508648625
+}
+{
+	id: 182
+	firstName: Emma
+	lastName: Harris
+	groupNumber: 3
+	rating: 7.143259031173999
+}
+{
+	id: 183
+	firstName: Nora
+	lastName: Williams
+	groupNumber: 3
+	rating: 1.096833766263444
+}
+{
+	id: 184
+	firstName: Ava
+	lastName: Garcia
+	groupNumber: 9
+	rating: 3.260026404003885
+}
+{
+	id: 185
+	firstName: Charlie
+	lastName: Davis
+	groupNumber: 6
+	rating: 7.729999015521564
+}
+{
+	id: 186
+	firstName: Elijah
+	lastName: Rodriguez
+	groupNumber: 5
+	rating: 2.627004160751282
+}
+{
+	id: 187
+	firstName: Bridget
+	lastName: Sanchez
+	groupNumber: 2
+	rating: 8.148432450576575
+}
+{
+	id: 188
+	firstName: Lea
+	lastName: Anderson
+	groupNumber: 6
+	rating: 6.167569851123635
+}
+{
+	id: 189
+	firstName: Zoe
+	lastName: Sanchez
+	groupNumber: 3
+	rating: 5.772407755241007
+}
+{
+	id: 190
+	firstName: Theo
+	lastName: Hall
+	groupNumber: 2
+	rating: 7.939466886082227
+}
+{
+	id: 191
+	firstName: Mila
+	lastName: Rodriguez
+	groupNumber: 3
+	rating: 4.853378832475629
+}
+{
+	id: 192
+	firstName: Camila
+	lastName: Williams
+	groupNumber: 4
+	rating: 5.526293103919843
+}
+{
+	id: 193
+	firstName: Harry
+	lastName: Wilson
+	groupNumber: 3
+	rating: 3.285652345721341
+}
+{
+	id: 194
+	firstName: Oliver
+	lastName: Ramirez
+	groupNumber: 3
+	rating: 5.786792496863318
+}
+{
+	id: 195
+	firstName: Mason
+	lastName: Mitchell
+	groupNumber: 6
+	rating: 3.7117121253769776
+}
+{
+	id: 196
+	firstName: Harrison
+	lastName: Flores
+	groupNumber: 4
+	rating: 5.646075082729462
+}
+{
+	id: 197
+	firstName: Lily
+	lastName: Davis
+	groupNumber: 7
+	rating: 2.1011022540192594
+}
+{
+	id: 198
+	firstName: Nova
+	lastName: Baker
+	groupNumber: 8
+	rating: 8.642341437663127
+}
+{
+	id: 199
+	firstName: Tommy
+	lastName: Allen
+	groupNumber: 9
+	rating: 6.427669404238312
+}
+{
+	id: 200
+	firstName: Lea
+	lastName: Taylor
+	groupNumber: 8
+	rating: 4.487248690697161
+}
+{
+	id: 201
+	firstName: Rory
+	lastName: Ramirez
+	groupNumber: 9
+	rating: 2.6475099416667747
+}
+{
+	id: 202
+	firstName: Finley
+	lastName: Thompson
+	groupNumber: 1
+	rating: 7.6133049727272
+}
+{
+	id: 203
+	firstName: Stella
+	lastName: Garcia
+	groupNumber: 5
+	rating: 8.382994117959559
+}
+{
+	id: 204
+	firstName: Hazel
+	lastName: Moore
+	groupNumber: 5
+	rating: 6.8504327895164705
+}
+{
+	id: 205
+	firstName: Albie
+	lastName: Adams
+	groupNumber: 6
+	rating: 8.387299303553373
+}
+{
+	id: 206
+	firstName: Henry
+	lastName: Smith
+	groupNumber: 7
+	rating: 5.339233788633469
+}
+{
+	id: 207
+	firstName: Joshua
+	lastName: Johnson
+	groupNumber: 8
+	rating: 9.468503903108477
+}
+{
+	id: 208
+	firstName: Samuel
+	lastName: Wilson
+	groupNumber: 2
+	rating: 7.6155081056628084
+}
+{
+	id: 209
+	firstName: Benjamin
+	lastName: Williams
+	groupNumber: 1
+	rating: 8.59305462563235
+}
+{
+	id: 210
+	firstName: Charlie
+	lastName: Rodriguez
+	groupNumber: 3
+	rating: 7.677790083286969
+}
+{
+	id: 211
+	firstName: Sophia
+	lastName: Baker
+	groupNumber: 9
+	rating: 3.5225810366743895
+}
+{
+	id: 212
+	firstName: Louie
+	lastName: Hall
+	groupNumber: 5
+	rating: 6.349551341496349
+}
+{
+	id: 213
+	firstName: Jacob
+	lastName: Rodriguez
+	groupNumber: 8
+	rating: 5.9147031504816505
+}
+{
+	id: 214
+	firstName: Stella
+	lastName: Moore
+	groupNumber: 1
+	rating: 1.0376464855503467
+}
+{
+	id: 215
+	firstName: Alfie
+	lastName: Mitchell
+	groupNumber: 3
+	rating: 7.355337110906274
+}
+{
+	id: 216
+	firstName: Louie
+	lastName: Garcia
+	groupNumber: 5
+	rating: 1.7407528243741752
+}
+{
+	id: 217
+	firstName: Sebastian
+	lastName: Williams
+	groupNumber: 2
+	rating: 5.394649954551613
+}
+{
+	id: 218
+	firstName: Luna
+	lastName: Sanchez
+	groupNumber: 8
+	rating: 7.683581083332976
+}
+{
+	id: 219
+	firstName: Sophia
+	lastName: Lee
+	groupNumber: 5
+	rating: 8.459010739863603
+}
+{
+	id: 220
+	firstName: Johanna
+	lastName: Jones
+	groupNumber: 8
+	rating: 5.571626713545582
+}
+{
+	id: 221
+	firstName: Leo
+	lastName: Lopez
+	groupNumber: 7
+	rating: 6.776926835825252
+}
+{
+	id: 222
+	firstName: Archie
+	lastName: Anderson
+	groupNumber: 6
+	rating: 9.359285198653069
+}
+{
+	id: 223
+	firstName: Penelope
+	lastName: Sanchez
+	groupNumber: 7
+	rating: 7.812825989182293
+}
+{
+	id: 224
+	firstName: Jamie
+	lastName: Taylor
+	groupNumber: 5
+	rating: 5.423663631066956
+}
+{
+	id: 225
+	firstName: George
+	lastName: Smith
+	groupNumber: 3
+	rating: 7.181126887734536
+}
+{
+	id: 226
+	firstName: Benjamin
+	lastName: Wilson
+	groupNumber: 8
+	rating: 8.576189098127472
+}
+{
+	id: 227
+	firstName: Karla
+	lastName: Davis
+	groupNumber: 4
+	rating: 8.617699972739782
+}
+{
+	id: 228
+	firstName: Freddie
+	lastName: Harris
+	groupNumber: 5
+	rating: 6.019364442826671
+}
+{
+	id: 229
+	firstName: Alexander
+	lastName: Lee
+	groupNumber: 2
+	rating: 3.105497907605538
+}
+{
+	id: 230
+	firstName: Albie
+	lastName: Wilson
+	groupNumber: 7
+	rating: 8.07449550829596
+}
+{
+	id: 231
+	firstName: George
+	lastName: Williams
+	groupNumber: 7
+	rating: 3.676501557537922
+}
+{
+	id: 232
+	firstName: Anahi
+	lastName: Flores
+	groupNumber: 4
+	rating: 2.653747089723013
+}
+{
+	id: 233
+	firstName: Lilith
+	lastName: Rodriguez
+	groupNumber: 4
+	rating: 5.148961170074585
+}
+{
+	id: 234
+	firstName: Allyson
+	lastName: Johnson
+	groupNumber: 8
+	rating: 1.2353901309081525
+}
+{
+	id: 235
+	firstName: Aila
+	lastName: Anderson
+	groupNumber: 6
+	rating: 2.07481095326642
+}
+{
+	id: 236
+	firstName: Charlotte
+	lastName: Allen
+	groupNumber: 4
+	rating: 5.733670807952629
+}
+{
+	id: 237
+	firstName: Zahra
+	lastName: Walker
+	groupNumber: 6
+	rating: 1.913308182543438
+}
+{
+	id: 238
+	firstName: Jamie
+	lastName: Jackson
+	groupNumber: 5
+	rating: 9.29666664227115
+}
+{
+	id: 239
+	firstName: Edward
+	lastName: Smith
+	groupNumber: 6
+	rating: 1.0916364990400689
+}
+{
+	id: 240
+	firstName: Lilith
+	lastName: Harris
+	groupNumber: 4
+	rating: 6.462566953378962
+}
+{
+	id: 241
+	firstName: Alexander
+	lastName: Hernandez
+	groupNumber: 8
+	rating: 7.607310644515252
+}
+{
+	id: 242
+	firstName: Elijah
+	lastName: Walker
+	groupNumber: 3
+	rating: 8.095886515776806
+}
+{
+	id: 243
+	firstName: Stella
+	lastName: Flores
+	groupNumber: 4
+	rating: 7.009175253400064
+}
+{
+	id: 244
+	firstName: Lily
+	lastName: Davis
+	groupNumber: 8
+	rating: 4.5126710498088825
+}
+{
+	id: 245
+	firstName: Muhammad
+	lastName: Hall
+	groupNumber: 9
+	rating: 8.867673374506676
+}
+{
+	id: 246
+	firstName: Luna
+	lastName: Lopez
+	groupNumber: 5
+	rating: 8.208742655304974
+}
+{
+	id: 247
+	firstName: Charlie
+	lastName: Anderson
+	groupNumber: 9
+	rating: 7.171867388384043
+}
+{
+	id: 248
+	firstName: Ava
+	lastName: Williams
+	groupNumber: 8
+	rating: 1.4085354389151448
+}
+{
+	id: 249
+	firstName: Lucas
+	lastName: Baker
+	groupNumber: 8
+	rating: 3.7788154703078867
+}
+{
+	id: 250
+	firstName: Joseph
+	lastName: Wilson
+	groupNumber: 8
+	rating: 7.310160792956384
+}
+{
+	id: 251
+	firstName: Hugo
+	lastName: Johnson
+	groupNumber: 3
+	rating: 9.189202499140311
+}
+{
+	id: 252
+	firstName: Arthur
+	lastName: Davis
+	groupNumber: 8
+	rating: 1.0883275814279745
+}
+{
+	id: 253
+	firstName: Leo
+	lastName: Lopez
+	groupNumber: 5
+	rating: 4.172054427427829
+}
+{
+	id: 254
+	firstName: Stella
+	lastName: Taylor
+	groupNumber: 7
+	rating: 9.499479523043167
+}
+{
+	id: 255
+	firstName: Victoria
+	lastName: Jones
+	groupNumber: 8
+	rating: 2.7985289666644206
+}
+{
+	id: 256
+	firstName: Gianna
+	lastName: Miller
+	groupNumber: 4
+	rating: 7.555045506139658
+}
+{
+	id: 257
+	firstName: Ava
+	lastName: Adams
+	groupNumber: 5
+	rating: 5.3899556702046
+}
+{
+	id: 258
+	firstName: Emily
+	lastName: Miller
+	groupNumber: 2
+	rating: 2.2424790295668027
+}
+{
+	id: 259
+	firstName: Roselyn
+	lastName: Adams
+	groupNumber: 7
+	rating: 8.441377426802383
+}
+{
+	id: 260
+	firstName: Lucas
+	lastName: Mitchell
+	groupNumber: 7
+	rating: 9.610062458640147
+}
+{
+	id: 261
+	firstName: William
+	lastName: Harris
+	groupNumber: 4
+	rating: 9.44168004825669
+}
+{
+	id: 262
+	firstName: George
+	lastName: Garcia
+	groupNumber: 9
+	rating: 7.943281204200972
+}
+{
+	id: 263
+	firstName: Teddy
+	lastName: Moore
+	groupNumber: 8
+	rating: 3.9928422542181847
+}
+{
+	id: 264
+	firstName: Finley
+	lastName: Ramirez
+	groupNumber: 4
+	rating: 3.1473412577301367
+}
+{
+	id: 265
+	firstName: Ethan
+	lastName: Williams
+	groupNumber: 5
+	rating: 9.8026583869512
+}
+{
+	id: 266
+	firstName: Mason
+	lastName: Ramirez
+	groupNumber: 7
+	rating: 2.14104099503455
+}
+{
+	id: 267
+	firstName: Nora
+	lastName: Baker
+	groupNumber: 3
+	rating: 8.097638983971597
+}
+{
+	id: 268
+	firstName: Edward
+	lastName: Flores
+	groupNumber: 9
+	rating: 1.2394242016079293
+}
+{
+	id: 269
+	firstName: Max
+	lastName: Garcia
+	groupNumber: 7
+	rating: 6.541953148537337
+}
+{
+	id: 270
+	firstName: Elijah
+	lastName: Miller
+	groupNumber: 9
+	rating: 7.7286131724164155
+}
+{
+	id: 271
+	firstName: Charlie
+	lastName: Ramirez
+	groupNumber: 1
+	rating: 1.6543851048179898
+}
+{
+	id: 272
+	firstName: Sebastian
+	lastName: Miller
+	groupNumber: 2
+	rating: 4.916859020977693
+}
+{
+	id: 273
+	firstName: Louie
+	lastName: Ramirez
+	groupNumber: 1
+	rating: 6.583056833951319
+}
+{
+	id: 274
+	firstName: Anahi
+	lastName: Walker
+	groupNumber: 9
+	rating: 9.104950166768168
+}
+{
+	id: 275
+	firstName: Grace
+	lastName: Garcia
+	groupNumber: 5
+	rating: 5.47908718127146
+}
+{
+	id: 276
+	firstName: Thomas
+	lastName: Sanchez
+	groupNumber: 1
+	rating: 3.082823099294149
+}
+{
+	id: 277
+	firstName: Sebastian
+	lastName: Ramirez
+	groupNumber: 4
+	rating: 5.211033066372466
+}
+{
+	id: 278
+	firstName: Emilia
+	lastName: Mitchell
+	groupNumber: 7
+	rating: 1.2447393646381286
+}
+{
+	id: 279
+	firstName: Gianna
+	lastName: Smith
+	groupNumber: 4
+	rating: 2.8649256396371077
+}
+{
+	id: 280
+	firstName: Archie
+	lastName: Moore
+	groupNumber: 1
+	rating: 2.44693570928161
+}
+{
+	id: 281
+	firstName: Archie
+	lastName: Wilson
+	groupNumber: 9
+	rating: 1.3414894102160952
+}
+{
+	id: 282
+	firstName: Karla
+	lastName: Wright
+	groupNumber: 3
+	rating: 3.9275804382413457
+}
+{
+	id: 283
+	firstName: Lily
+	lastName: Wilson
+	groupNumber: 4
+	rating: 8.589478700423403
+}
+{
+	id: 284
+	firstName: Aila
+	lastName: Rodriguez
+	groupNumber: 8
+	rating: 8.674388925850973
+}
+{
+	id: 285
+	firstName: Sebastian
+	lastName: Hernandez
+	groupNumber: 6
+	rating: 5.956376997326661
+}
+{
+	id: 286
+	firstName: Penelope
+	lastName: Wright
+	groupNumber: 1
+	rating: 3.4827330630975935
+}
+{
+	id: 287
+	firstName: Camila
+	lastName: Ramirez
+	groupNumber: 2
+	rating: 3.3437658772183356
+}
+{
+	id: 288
+	firstName: Alexander
+	lastName: Martinez
+	groupNumber: 5
+	rating: 8.924438576816051
+}
+{
+	id: 289
+	firstName: William
+	lastName: Wright
+	groupNumber: 4
+	rating: 8.031667063341729
+}
+{
+	id: 290
+	firstName: Logan
+	lastName: Miller
+	groupNumber: 7
+	rating: 9.67213676555976
+}
+{
+	id: 291
+	firstName: Hugo
+	lastName: Thompson
+	groupNumber: 2
+	rating: 7.646864604317622
+}
+{
+	id: 292
+	firstName: Finley
+	lastName: Rodriguez
+	groupNumber: 6
+	rating: 7.270665700050384
+}
+{
+	id: 293
+	firstName: Emma
+	lastName: Allen
+	groupNumber: 6
+	rating: 4.345139264111486
+}
+{
+	id: 294
+	firstName: Arthur
+	lastName: Wilson
+	groupNumber: 6
+	rating: 7.965654399409496
+}
+{
+	id: 295
+	firstName: James
+	lastName: Walker
+	groupNumber: 9
+	rating: 8.736873178385547
+}
+{
+	id: 296
+	firstName: Sebastian
+	lastName: Jones
+	groupNumber: 2
+	rating: 8.552996902885527
+}
+{
+	id: 297
+	firstName: Katelyn
+	lastName: Hernandez
+	groupNumber: 7
+	rating: 9.423219874403486
+}
+{
+	id: 298
+	firstName: Aila
+	lastName: Thompson
+	groupNumber: 6
+	rating: 2.2484517479881077
+}
+{
+	id: 299
+	firstName: Harry
+	lastName: Mitchell
+	groupNumber: 5
+	rating: 7.131474636704034
+}
+{
+	id: 300
+	firstName: Arthur
+	lastName: Martinez
+	groupNumber: 1
+	rating: 5.643633891025393
+}
+{
+	id: 301
+	firstName: Sebastian
+	lastName: Martinez
+	groupNumber: 5
+	rating: 4.2029443787721465
+}
+{
+	id: 302
+	firstName: George
+	lastName: Flores
+	groupNumber: 7
+	rating: 7.370811789337431
+}
+{
+	id: 303
+	firstName: Rory
+	lastName: Lee
+	groupNumber: 1
+	rating: 8.298429030717944
+}
+{
+	id: 304
+	firstName: Harry
+	lastName: Sanchez
+	groupNumber: 3
+	rating: 8.869378506182912
+}
+{
+	id: 305
+	firstName: Layla
+	lastName: Williams
+	groupNumber: 9
+	rating: 6.973377008509612
+}
+{
+	id: 306
+	firstName: Scarlett
+	lastName: Wright
+	groupNumber: 6
+	rating: 9.729553058050115
+}
+{
+	id: 307
+	firstName: Isaac
+	lastName: Taylor
+	groupNumber: 9
+	rating: 6.875163942586279
+}
+{
+	id: 308
+	firstName: Freddie
+	lastName: Ramirez
+	groupNumber: 2
+	rating: 3.9286829206625975
+}
+{
+	id: 309
+	firstName: Adam
+	lastName: Moore
+	groupNumber: 8
+	rating: 4.123647232860499
+}
+{
+	id: 310
+	firstName: Hayley
+	lastName: Hernandez
+	groupNumber: 3
+	rating: 1.443398952326661
+}
+{
+	id: 311
+	firstName: Ethan
+	lastName: Baker
+	groupNumber: 6
+	rating: 3.0456912894288393
+}
+{
+	id: 312
+	firstName: Freddie
+	lastName: Allen
+	groupNumber: 8
+	rating: 7.883084053767584
+}
+{
+	id: 313
+	firstName: Noah
+	lastName: Williams
+	groupNumber: 9
+	rating: 6.760719790235731
+}
+{
+	id: 314
+	firstName: Olivia
+	lastName: Garcia
+	groupNumber: 2
+	rating: 8.75260528883855
+}
+{
+	id: 315
+	firstName: Tommy
+	lastName: Flores
+	groupNumber: 1
+	rating: 1.9243168298866373
+}
+{
+	id: 316
+	firstName: Archie
+	lastName: Hernandez
+	groupNumber: 4
+	rating: 7.396040750716972
+}
+{
+	id: 317
+	firstName: Joshua
+	lastName: Lee
+	groupNumber: 6
+	rating: 5.671864916144483
+}
+{
+	id: 318
+	firstName: Victoria
+	lastName: Allen
+	groupNumber: 8
+	rating: 5.302427822606284
+}
+{
+	id: 319
+	firstName: Isaac
+	lastName: Rodriguez
+	groupNumber: 6
+	rating: 8.0409868858547
+}
+{
+	id: 320
+	firstName: Johanna
+	lastName: Sanchez
+	groupNumber: 4
+	rating: 2.7628162491009647
+}
+{
+	id: 321
+	firstName: Gianna
+	lastName: Smith
+	groupNumber: 4
+	rating: 5.125937318431007
+}
+{
+	id: 322
+	firstName: Mila
+	lastName: Flores
+	groupNumber: 8
+	rating: 7.147400523778692
+}
+{
+	id: 323
+	firstName: Muhammad
+	lastName: Baker
+	groupNumber: 9
+	rating: 8.045035375572809
+}
+{
+	id: 324
+	firstName: Grace
+	lastName: Wright
+	groupNumber: 1
+	rating: 8.102028038998558
+}
+{
+	id: 325
+	firstName: Lucas
+	lastName: Anderson
+	groupNumber: 4
+	rating: 7.406744024223278
+}
+{
+	id: 326
+	firstName: Harrison
+	lastName: Rodriguez
+	groupNumber: 2
+	rating: 5.66635511115457
+}
+{
+	id: 327
+	firstName: Joseph
+	lastName: Garcia
+	groupNumber: 7
+	rating: 8.221312663571979
+}
+{
+	id: 328
+	firstName: Roselyn
+	lastName: Smith
+	groupNumber: 2
+	rating: 7.474022584551861
+}
+{
+	id: 329
+	firstName: Hazel
+	lastName: Adams
+	groupNumber: 9
+	rating: 2.7737607268701567
+}
+{
+	id: 330
+	firstName: Emily
+	lastName: Hernandez
+	groupNumber: 2
+	rating: 3.700264042928653
+}
+{
+	id: 331
+	firstName: Jacob
+	lastName: Mitchell
+	groupNumber: 5
+	rating: 8.587791346266327
+}
+{
+	id: 332
+	firstName: Lily
+	lastName: Wright
+	groupNumber: 8
+	rating: 9.471707431378013
+}
+{
+	id: 333
+	firstName: Sophia
+	lastName: Rodriguez
+	groupNumber: 7
+	rating: 5.829793562187775
+}
+{
+	id: 334
+	firstName: Muhammad
+	lastName: Allen
+	groupNumber: 5
+	rating: 4.810890551170387
+}
+{
+	id: 335
+	firstName: Layla
+	lastName: Hernandez
+	groupNumber: 7
+	rating: 7.906862724713372
+}
+{
+	id: 336
+	firstName: Charlie
+	lastName: Hernandez
+	groupNumber: 6
+	rating: 8.382009092806094
+}
+{
+	id: 337
+	firstName: Harper
+	lastName: Allen
+	groupNumber: 2
+	rating: 3.4049727582432867
+}
+{
+	id: 338
+	firstName: Adam
+	lastName: Brown
+	groupNumber: 6
+	rating: 2.523340150990387
+}
+{
+	id: 339
+	firstName: Zoe
+	lastName: Taylor
+	groupNumber: 7
+	rating: 4.345072840107404
+}
+{
+	id: 340
+	firstName: Evelyn
+	lastName: Smith
+	groupNumber: 7
+	rating: 9.458378622116056
+}
+{
+	id: 341
+	firstName: Jacob
+	lastName: Garcia
+	groupNumber: 1
+	rating: 3.3089480091755292
+}
+{
+	id: 342
+	firstName: Leo
+	lastName: Garcia
+	groupNumber: 1
+	rating: 6.148616426286125
+}
+{
+	id: 343
+	firstName: Sophia
+	lastName: Moore
+	groupNumber: 6
+	rating: 9.249398421818503
+}
+{
+	id: 344
+	firstName: Zoe
+	lastName: Baker
+	groupNumber: 7
+	rating: 9.233737239062956
+}
+{
+	id: 345
+	firstName: Emily
+	lastName: Rodriguez
+	groupNumber: 8
+	rating: 2.2841768892458805
+}
+{
+	id: 346
+	firstName: Nova
+	lastName: Baker
+	groupNumber: 9
+	rating: 7.830147971579815
+}
+{
+	id: 347
+	firstName: Emilia
+	lastName: Johnson
+	groupNumber: 1
+	rating: 7.535200795857301
+}
+{
+	id: 348
+	firstName: Charlotte
+	lastName: Adams
+	groupNumber: 8
+	rating: 6.3547141380589185
+}
+{
+	id: 349
+	firstName: Ethan
+	lastName: Hall
+	groupNumber: 8
+	rating: 3.08745427327741
+}
+{
+	id: 350
+	firstName: Scarlett
+	lastName: Flores
+	groupNumber: 3
+	rating: 8.250665745211245
+}
+{
+	id: 351
+	firstName: Bridget
+	lastName: Jackson
+	groupNumber: 2
+	rating: 2.0004611022226486
+}
+{
+	id: 352
+	firstName: Hazel
+	lastName: Garcia
+	groupNumber: 4
+	rating: 2.898243608627087
+}
+{
+	id: 353
+	firstName: Joelle
+	lastName: Baker
+	groupNumber: 5
+	rating: 1.2033648187361945
+}
+{
+	id: 354
+	firstName: Aria
+	lastName: Brown
+	groupNumber: 7
+	rating: 9.95674468205354
+}
+{
+	id: 355
+	firstName: Noah
+	lastName: Brown
+	groupNumber: 8
+	rating: 3.428004104304833
+}
+{
+	id: 356
+	firstName: Benjamin
+	lastName: Thompson
+	groupNumber: 4
+	rating: 3.181477070068727
+}
+{
+	id: 357
+	firstName: Joshua
+	lastName: Baker
+	groupNumber: 2
+	rating: 4.053469400898772
+}
+{
+	id: 358
+	firstName: Nova
+	lastName: Moore
+	groupNumber: 4
+	rating: 4.553715444445194
+}
+{
+	id: 359
+	firstName: Hugo
+	lastName: Martinez
+	groupNumber: 8
+	rating: 8.681898944985246
+}
+{
+	id: 360
+	firstName: Ellie
+	lastName: Martinez
+	groupNumber: 3
+	rating: 2.906190017318176
+}
+{
+	id: 361
+	firstName: William
+	lastName: Miller
+	groupNumber: 6
+	rating: 3.347431950239512
+}
+{
+	id: 362
+	firstName: Aila
+	lastName: Hall
+	groupNumber: 2
+	rating: 6.487954253167197
+}
+{
+	id: 363
+	firstName: Muhammad
+	lastName: Smith
+	groupNumber: 5
+	rating: 2.4913191837081157
+}
+{
+	id: 364
+	firstName: Bridget
+	lastName: Williams
+	groupNumber: 3
+	rating: 2.535907760754652
+}
+{
+	id: 365
+	firstName: Emma
+	lastName: Wright
+	groupNumber: 3
+	rating: 6.345803337256634
+}
+{
+	id: 366
+	firstName: Grace
+	lastName: Wilson
+	groupNumber: 6
+	rating: 7.671259986991123
+}
+{
+	id: 367
+	firstName: Hugo
+	lastName: Garcia
+	groupNumber: 8
+	rating: 5.158355878933968
+}
+{
+	id: 368
+	firstName: Thomas
+	lastName: Lee
+	groupNumber: 5
+	rating: 1.7783384955540344
+}
+{
+	id: 369
+	firstName: Zahra
+	lastName: Taylor
+	groupNumber: 5
+	rating: 1.9899937932056595
+}
+{
+	id: 370
+	firstName: Max
+	lastName: Allen
+	groupNumber: 2
+	rating: 6.4163318505631945
+}
+{
+	id: 371
+	firstName: Harrison
+	lastName: Mitchell
+	groupNumber: 3
+	rating: 7.03997836155583
+}
+{
+	id: 372
+	firstName: Sophia
+	lastName: Thompson
+	groupNumber: 4
+	rating: 8.159890743903155
+}
+{
+	id: 373
+	firstName: Noah
+	lastName: Miller
+	groupNumber: 7
+	rating: 4.007774970715234
+}
+{
+	id: 374
+	firstName: Muhammad
+	lastName: Adams
+	groupNumber: 5
+	rating: 2.124309564362144
+}
+{
+	id: 375
+	firstName: Leo
+	lastName: Walker
+	groupNumber: 8
+	rating: 1.6206828595251541
+}
+{
+	id: 376
+	firstName: Zahra
+	lastName: Garcia
+	groupNumber: 3
+	rating: 5.655673302288721
+}
+{
+	id: 377
+	firstName: Isla
+	lastName: Hernandez
+	groupNumber: 1
+	rating: 3.8937735654994277
+}
+{
+	id: 378
+	firstName: Florence
+	lastName: Thompson
+	groupNumber: 6
+	rating: 1.6832442631117712
+}
+{
+	id: 379
+	firstName: Oscar
+	lastName: Garcia
+	groupNumber: 3
+	rating: 4.710796963209343
+}
+{
+	id: 380
+	firstName: Teddy
+	lastName: Garcia
+	groupNumber: 3
+	rating: 2.3648216464324068
+}
+{
+	id: 381
+	firstName: Freyja
+	lastName: Jones
+	groupNumber: 1
+	rating: 1.2420087784375256
+}
+{
+	id: 382
+	firstName: Penelope
+	lastName: Flores
+	groupNumber: 7
+	rating: 8.875857996732725
+}
+{
+	id: 383
+	firstName: Lily
+	lastName: Jackson
+	groupNumber: 5
+	rating: 2.58331538342327
+}
+{
+	id: 384
+	firstName: Joelle
+	lastName: Brown
+	groupNumber: 6
+	rating: 9.962045984266478
+}
+{
+	id: 385
+	firstName: Thomas
+	lastName: Smith
+	groupNumber: 4
+	rating: 9.930786206036485
+}
+{
+	id: 386
+	firstName: Freddie
+	lastName: Smith
+	groupNumber: 7
+	rating: 1.6519523100659161
+}
+{
+	id: 387
+	firstName: Elijah
+	lastName: Smith
+	groupNumber: 8
+	rating: 9.519266552556623
+}
+{
+	id: 388
+	firstName: Zahra
+	lastName: Brown
+	groupNumber: 5
+	rating: 4.018882205052791
+}
+{
+	id: 389
+	firstName: Leo
+	lastName: Wright
+	groupNumber: 1
+	rating: 7.255874086852853
+}
+{
+	id: 390
+	firstName: Freyja
+	lastName: Jackson
+	groupNumber: 9
+	rating: 4.824784055444864
+}
+{
+	id: 391
+	firstName: Aria
+	lastName: Williams
+	groupNumber: 1
+	rating: 7.5770882051878665
+}
+{
+	id: 392
+	firstName: Oliver
+	lastName: Mitchell
+	groupNumber: 8
+	rating: 6.543999934617132
+}
+{
+	id: 393
+	firstName: Nova
+	lastName: Baker
+	groupNumber: 9
+	rating: 9.373932174786527
+}
+{
+	id: 394
+	firstName: Arthur
+	lastName: Walker
+	groupNumber: 5
+	rating: 3.841681682794885
+}
+{
+	id: 395
+	firstName: Olivia
+	lastName: Williams
+	groupNumber: 2
+	rating: 2.8445551250129517
+}
+{
+	id: 396
+	firstName: Bridget
+	lastName: Hernandez
+	groupNumber: 7
+	rating: 8.860221874907907
+}
+{
+	id: 397
+	firstName: James
+	lastName: Lopez
+	groupNumber: 1
+	rating: 9.946748617615123
+}
+{
+	id: 398
+	firstName: Jamie
+	lastName: Walker
+	groupNumber: 1
+	rating: 1.0815131614882396
+}
+{
+	id: 399
+	firstName: Lilith
+	lastName: Hernandez
+	groupNumber: 8
+	rating: 1.0673263627234335
+}
+{
+	id: 400
+	firstName: Benjamin
+	lastName: Davis
+	groupNumber: 4
+	rating: 9.890403277472204
+}
+{
+	id: 401
+	firstName: Joshua
+	lastName: Sanchez
+	groupNumber: 7
+	rating: 4.47322919687236
+}
+{
+	id: 402
+	firstName: Mason
+	lastName: Garcia
+	groupNumber: 1
+	rating: 5.097525405191094
+}
+{
+	id: 403
+	firstName: Harrison
+	lastName: Sanchez
+	groupNumber: 1
+	rating: 6.824698454501751
+}
+{
+	id: 404
+	firstName: Hazel
+	lastName: Harris
+	groupNumber: 9
+	rating: 7.79281255284803
+}
+{
+	id: 405
+	firstName: Bridget
+	lastName: Ramirez
+	groupNumber: 6
+	rating: 4.676499664047934
+}
+{
+	id: 406
+	firstName: Anahi
+	lastName: Wright
+	groupNumber: 3
+	rating: 1.31525415597394
+}
+{
+	id: 407
+	firstName: Theodore
+	lastName: Moore
+	groupNumber: 9
+	rating: 9.901483070120124
+}
+{
+	id: 408
+	firstName: Emma
+	lastName: Adams
+	groupNumber: 5
+	rating: 3.2835337794978385
+}
+{
+	id: 409
+	firstName: Emma
+	lastName: Sanchez
+	groupNumber: 8
+	rating: 8.762152118673896
+}
+{
+	id: 410
+	firstName: Albie
+	lastName: Moore
+	groupNumber: 7
+	rating: 2.7432517351644314
+}
+{
+	id: 411
+	firstName: Roselyn
+	lastName: Wilson
+	groupNumber: 1
+	rating: 2.3907909553010738
+}
+{
+	id: 412
+	firstName: Louie
+	lastName: Flores
+	groupNumber: 7
+	rating: 5.941269078776028
+}
+{
+	id: 413
+	firstName: Samuel
+	lastName: Miller
+	groupNumber: 8
+	rating: 4.123228527431937
+}
+{
+	id: 414
+	firstName: Camila
+	lastName: Jones
+	groupNumber: 9
+	rating: 5.39757055814468
+}
+{
+	id: 415
+	firstName: Charlie
+	lastName: Anderson
+	groupNumber: 5
+	rating: 5.842772686978357
+}
+{
+	id: 416
+	firstName: Penelope
+	lastName: Brown
+	groupNumber: 2
+	rating: 6.579332131483175
+}
+{
+	id: 417
+	firstName: Scarlett
+	lastName: Sanchez
+	groupNumber: 4
+	rating: 2.8670719087535974
+}
+{
+	id: 418
+	firstName: Nova
+	lastName: Garcia
+	groupNumber: 1
+	rating: 5.9480757590302415
+}
+{
+	id: 419
+	firstName: Layla
+	lastName: Martinez
+	groupNumber: 7
+	rating: 3.1083260791913285
+}
+{
+	id: 420
+	firstName: Camila
+	lastName: Moore
+	groupNumber: 2
+	rating: 2.547986651965187
+}
+{
+	id: 421
+	firstName: Elijah
+	lastName: Smith
+	groupNumber: 9
+	rating: 8.27143926120684
+}
+{
+	id: 422
+	firstName: Max
+	lastName: Jones
+	groupNumber: 7
+	rating: 1.2132712028681523
+}
+{
+	id: 423
+	firstName: Zoe
+	lastName: Jones
+	groupNumber: 2
+	rating: 5.384169322458975
+}
+{
+	id: 424
+	firstName: Harry
+	lastName: Rodriguez
+	groupNumber: 9
+	rating: 6.336109170604443
+}
+{
+	id: 425
+	firstName: Luna
+	lastName: Davis
+	groupNumber: 6
+	rating: 5.315892193785377
+}
+{
+	id: 426
+	firstName: Bridget
+	lastName: Baker
+	groupNumber: 4
+	rating: 5.912531944158302
+}
+{
+	id: 427
+	firstName: Hazel
+	lastName: Walker
+	groupNumber: 9
+	rating: 1.3859517819702498
+}
+{
+	id: 428
+	firstName: Joshua
+	lastName: Wilson
+	groupNumber: 4
+	rating: 9.442826505556178
+}
+{
+	id: 429
+	firstName: Leo
+	lastName: Sanchez
+	groupNumber: 4
+	rating: 5.221384392103599
+}
+{
+	id: 430
+	firstName: Leo
+	lastName: Garcia
+	groupNumber: 6
+	rating: 8.42528688769353
+}
+{
+	id: 431
+	firstName: Charlotte
+	lastName: Wright
+	groupNumber: 5
+	rating: 9.678183932444822
+}
+{
+	id: 432
+	firstName: Roselyn
+	lastName: Allen
+	groupNumber: 2
+	rating: 2.286574216788489
+}
+{
+	id: 433
+	firstName: Muhammad
+	lastName: Brown
+	groupNumber: 5
+	rating: 7.756039688714336
+}
+{
+	id: 434
+	firstName: Finley
+	lastName: Taylor
+	groupNumber: 4
+	rating: 5.414574820294517
+}
+{
+	id: 435
+	firstName: Stella
+	lastName: Rodriguez
+	groupNumber: 6
+	rating: 2.598819396585823
+}
+{
+	id: 436
+	firstName: Nova
+	lastName: Martinez
+	groupNumber: 6
+	rating: 3.0494696107783694
+}
+{
+	id: 437
+	firstName: Edward
+	lastName: Hall
+	groupNumber: 3
+	rating: 5.648494773187733
+}
+{
+	id: 438
+	firstName: Aria
+	lastName: Wright
+	groupNumber: 4
+	rating: 4.41941906903199
+}
+{
+	id: 439
+	firstName: Rory
+	lastName: Lopez
+	groupNumber: 1
+	rating: 5.022163402379024
+}
+{
+	id: 440
+	firstName: Jack
+	lastName: Lopez
+	groupNumber: 7
+	rating: 8.421147000943684
+}
+{
+	id: 441
+	firstName: Allyson
+	lastName: Martinez
+	groupNumber: 9
+	rating: 2.0484030510052014
+}
+{
+	id: 442
+	firstName: Camila
+	lastName: Davis
+	groupNumber: 1
+	rating: 7.804240908367263
+}
+{
+	id: 443
+	firstName: Theo
+	lastName: Garcia
+	groupNumber: 5
+	rating: 7.938138446460044
+}
+{
+	id: 444
+	firstName: Olivia
+	lastName: Baker
+	groupNumber: 7
+	rating: 7.717620946390707
+}
+{
+	id: 445
+	firstName: Albie
+	lastName: Adams
+	groupNumber: 4
+	rating: 1.3727460768260802
+}
+{
+	id: 446
+	firstName: Freyja
+	lastName: Wilson
+	groupNumber: 3
+	rating: 2.781328755571426
+}
+{
+	id: 447
+	firstName: Charlotte
+	lastName: Moore
+	groupNumber: 9
+	rating: 8.480492883469068
+}
+{
+	id: 448
+	firstName: Arlo
+	lastName: Brown
+	groupNumber: 4
+	rating: 9.32362382996104
+}
+{
+	id: 449
+	firstName: Mason
+	lastName: Wright
+	groupNumber: 4
+	rating: 6.4699318748811825
+}
+{
+	id: 450
+	firstName: Luna
+	lastName: Baker
+	groupNumber: 3
+	rating: 1.4067936004831727
+}
+{
+	id: 451
+	firstName: Hugo
+	lastName: Taylor
+	groupNumber: 7
+	rating: 2.2723453112228613
+}
+{
+	id: 452
+	firstName: Lilith
+	lastName: Hernandez
+	groupNumber: 9
+	rating: 3.046209486506826
+}
+{
+	id: 453
+	firstName: Joshua
+	lastName: Wilson
+	groupNumber: 9
+	rating: 9.496127479687601
+}
+{
+	id: 454
+	firstName: Karla
+	lastName: Adams
+	groupNumber: 6
+	rating: 4.813488765687712
+}
+{
+	id: 455
+	firstName: Emilia
+	lastName: Mitchell
+	groupNumber: 6
+	rating: 8.470572043206051
+}
+{
+	id: 456
+	firstName: Johanna
+	lastName: Jackson
+	groupNumber: 1
+	rating: 2.055864271127632
+}
+{
+	id: 457
+	firstName: Muhammad
+	lastName: Johnson
+	groupNumber: 2
+	rating: 1.2592346799947554
+}
+{
+	id: 458
+	firstName: Jacob
+	lastName: Lopez
+	groupNumber: 5
+	rating: 7.9957572393982055
+}
+{
+	id: 459
+	firstName: Charlie
+	lastName: Ramirez
+	groupNumber: 7
+	rating: 7.421132558914647
+}
+{
+	id: 460
+	firstName: Sebastian
+	lastName: Allen
+	groupNumber: 2
+	rating: 8.227127281420358
+}
+{
+	id: 461
+	firstName: Lea
+	lastName: Adams
+	groupNumber: 1
+	rating: 1.5903135766975145
+}
+{
+	id: 462
+	firstName: Ava
+	lastName: Brown
+	groupNumber: 1
+	rating: 4.612624890643673
+}
+{
+	id: 463
+	firstName: Freyja
+	lastName: Adams
+	groupNumber: 9
+	rating: 9.858307795539163
+}
+{
+	id: 464
+	firstName: Arthur
+	lastName: Anderson
+	groupNumber: 9
+	rating: 8.97381258290959
+}
+{
+	id: 465
+	firstName: Archie
+	lastName: Harris
+	groupNumber: 6
+	rating: 1.6186678334727227
+}
+{
+	id: 466
+	firstName: Charlotte
+	lastName: Martinez
+	groupNumber: 2
+	rating: 7.201349125891043
+}
+{
+	id: 467
+	firstName: Joseph
+	lastName: Davis
+	groupNumber: 9
+	rating: 8.244308714167854
+}
+{
+	id: 468
+	firstName: Hugo
+	lastName: Garcia
+	groupNumber: 3
+	rating: 9.859414717045784
+}
+{
+	id: 469
+	firstName: Arthur
+	lastName: Wright
+	groupNumber: 3
+	rating: 5.5965021623888855
+}
+{
+	id: 470
+	firstName: Freyja
+	lastName: Davis
+	groupNumber: 7
+	rating: 5.529662220028349
+}
+{
+	id: 471
+	firstName: Theo
+	lastName: Garcia
+	groupNumber: 5
+	rating: 6.224285107113442
+}
+{
+	id: 472
+	firstName: Victoria
+	lastName: Wright
+	groupNumber: 4
+	rating: 5.617006258578656
+}
+{
+	id: 473
+	firstName: Harry
+	lastName: Moore
+	groupNumber: 9
+	rating: 2.524203801303998
+}
+{
+	id: 474
+	firstName: Victoria
+	lastName: Johnson
+	groupNumber: 1
+	rating: 6.858412957947255
+}
+{
+	id: 475
+	firstName: Scarlett
+	lastName: Thompson
+	groupNumber: 4
+	rating: 9.833535560138417
+}
+{
+	id: 476
+	firstName: Lily
+	lastName: Brown
+	groupNumber: 3
+	rating: 7.795743714006867
+}
+{
+	id: 477
+	firstName: Charlie
+	lastName: Flores
+	groupNumber: 4
+	rating: 2.2217921262317972
+}
+{
+	id: 478
+	firstName: Arlo
+	lastName: Thompson
+	groupNumber: 3
+	rating: 7.91543261759208
+}
+{
+	id: 479
+	firstName: Arthur
+	lastName: Moore
+	groupNumber: 7
+	rating: 9.03489226709968
+}
+{
+	id: 480
+	firstName: Elijah
+	lastName: Baker
+	groupNumber: 1
+	rating: 3.821806707397735
+}
+{
+	id: 481
+	firstName: Henry
+	lastName: Hall
+	groupNumber: 5
+	rating: 7.646847382187823
+}
+{
+	id: 482
+	firstName: Freddie
+	lastName: Davis
+	groupNumber: 8
+	rating: 6.853120615962994
+}
+{
+	id: 483
+	firstName: Scarlett
+	lastName: Williams
+	groupNumber: 7
+	rating: 4.197167766470636
+}
+{
+	id: 484
+	firstName: Gianna
+	lastName: Allen
+	groupNumber: 3
+	rating: 7.97378437572469
+}
+{
+	id: 485
+	firstName: Lea
+	lastName: Flores
+	groupNumber: 2
+	rating: 6.142283821703314
+}
+{
+	id: 486
+	firstName: Alfie
+	lastName: Mitchell
+	groupNumber: 2
+	rating: 4.045450614966173
+}
+{
+	id: 487
+	firstName: Florence
+	lastName: Brown
+	groupNumber: 8
+	rating: 6.427460655011589
+}
+{
+	id: 488
+	firstName: Rory
+	lastName: Wilson
+	groupNumber: 5
+	rating: 9.976503171189586
+}
+{
+	id: 489
+	firstName: Layla
+	lastName: Lee
+	groupNumber: 5
+	rating: 5.606758819956079
+}
+{
+	id: 490
+	firstName: Finley
+	lastName: Jones
+	groupNumber: 5
+	rating: 6.38213014109872
+}
+{
+	id: 491
+	firstName: Aila
+	lastName: Thompson
+	groupNumber: 2
+	rating: 5.7036385802740135
+}
+{
+	id: 492
+	firstName: George
+	lastName: Brown
+	groupNumber: 8
+	rating: 3.5503996047903414
+}
+{
+	id: 493
+	firstName: Archie
+	lastName: Moore
+	groupNumber: 9
+	rating: 9.862358945118224
+}
+{
+	id: 494
+	firstName: Katelyn
+	lastName: Taylor
+	groupNumber: 9
+	rating: 4.598479718615828
+}
+{
+	id: 495
+	firstName: Avery
+	lastName: Brown
+	groupNumber: 7
+	rating: 4.354734257482309
+}
+{
+	id: 496
+	firstName: Florence
+	lastName: Allen
+	groupNumber: 7
+	rating: 9.163540521854568
+}
+{
+	id: 497
+	firstName: Jacob
+	lastName: Adams
+	groupNumber: 5
+	rating: 7.486323496146725
+}
+{
+	id: 498
+	firstName: Finley
+	lastName: Taylor
+	groupNumber: 4
+	rating: 8.505222914231027
+}
+{
+	id: 499
+	firstName: Katelyn
+	lastName: Davis
+	groupNumber: 1
+	rating: 4.315206757201075
+}
