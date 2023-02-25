@@ -1,4 +1,7 @@
 target
 venv
-.idea
+.*
+_*
 src/main/resources/scripts
+links.txt
+tags

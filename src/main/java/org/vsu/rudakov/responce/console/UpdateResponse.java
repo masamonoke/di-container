@@ -1,4 +1,4 @@
-package org.vsu.rudakov.responce.file;
+package org.vsu.rudakov.responce.console;
 
 import org.vsu.rudakov.annotation.mapping.UpdateMapping;
 import org.vsu.rudakov.request.Request;

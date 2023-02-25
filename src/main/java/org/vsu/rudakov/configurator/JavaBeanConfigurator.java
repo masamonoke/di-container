@@ -14,7 +14,8 @@ public class JavaBeanConfigurator implements BeanConfigurator {
         scanner = new Reflections(packageToScan);
         this.interfaceToImpl = interfaceToImpl;
     }
-
+    
+    @SuppressWarnings("unchecked")
     @Override
     public <T> Class<? extends T> getImplementationClass(Class<T> interfaceClass) {
         return interfaceToImpl.computeIfAbsent(interfaceClass, c -> {

@@ -1,9 +1,9 @@
-package org.vsu.rudakov.responce.file;
+package org.vsu.rudakov.responce.console;
 
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.vsu.rudakov.MainConsoleAppTestRunner;
+import org.vsu.rudakov.TestMainConsoleAppRunner;
 import org.vsu.rudakov.model.Child;
 import org.vsu.rudakov.model.Educator;
 import org.vsu.rudakov.responce.Response;
@@ -11,7 +11,7 @@ import org.vsu.rudakov.responce.Response;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-@RunWith(MainConsoleAppTestRunner.class)
+@RunWith(TestMainConsoleAppRunner.class)
 public class GetResponseTest extends ResponseTest {
     private final Response get;
 

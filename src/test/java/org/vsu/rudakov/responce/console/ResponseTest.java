@@ -1,7 +1,7 @@
-package org.vsu.rudakov.responce.file;
+package org.vsu.rudakov.responce.console;
 
 import lombok.Setter;
-import org.vsu.rudakov.MainConsoleAppTestRunner;
+import org.vsu.rudakov.TestMainConsoleAppRunner;
 import org.vsu.rudakov.request.ConsoleRequest;
 import org.vsu.rudakov.request.Request;
 import org.vsu.rudakov.responce.Response;
@@ -18,6 +18,6 @@ public abstract class ResponseTest {
     }
 
     List<?> getResponse(String query, Response resp) {
-        return MainConsoleAppTestRunner.getResponse(query, request, resp, controllers);
+        return TestMainConsoleAppRunner.getResponse(query, request, resp, controllers);
     }
 }

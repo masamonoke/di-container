@@ -1,13 +1,13 @@
-package org.vsu.rudakov.responce.file;
+package org.vsu.rudakov.responce.console;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.vsu.rudakov.MainConsoleAppTestRunner;
+import org.vsu.rudakov.TestMainConsoleAppRunner;
 import org.vsu.rudakov.responce.Response;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-@RunWith(MainConsoleAppTestRunner.class)
+@RunWith(TestMainConsoleAppRunner.class)
 public class UpdateResponseTest extends ResponseTest {
     private final Response update;
     private final Response get;

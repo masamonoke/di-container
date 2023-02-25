@@ -4,6 +4,8 @@ import org.vsu.rudakov.dao.Dao;
 import org.vsu.rudakov.utils.FileResource;
 import org.vsu.rudakov.utils.Mapper;
 
+import lombok.Setter;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
@@ -17,6 +19,8 @@ public abstract class FileDao<E> implements Dao<E> {
     protected String url;
     protected Class<?> entityClass;
     private Constructor<?> noArgsConstructor;
+    @Setter
+    private long sequence;
 
     public FileDao(String url) {
         var genericSuperClass = getClass().getGenericSuperclass();
@@ -36,6 +40,7 @@ public abstract class FileDao<E> implements Dao<E> {
         this.url = url + "/" + entityClass.getSimpleName().toLowerCase() + ".txt";
     }
 
+    @SuppressWarnings("unchecked")
     public E getInstance() {
         try {
             var instance = noArgsConstructor.newInstance();
@@ -103,6 +108,11 @@ public abstract class FileDao<E> implements Dao<E> {
 
     @Override
     public E update(E entity) {
+        if(!isPresent(entity)) {
+            create(entity);
+            return entity;
+        }
+
         writeEntity(entity);
         return entity;
     }
@@ -144,8 +154,6 @@ public abstract class FileDao<E> implements Dao<E> {
                 if (key.equals("id")) {
                     var mapper = new Mapper();
                     var foundData = mapper.map(Long.class.getTypeName(), (String) entityMap.get(key));
-                    //todo: почему то после 100, если не использовать equals,
-                    // то не выполняется равенство равных по сути значений
                     if (foundData.equals(id)) {
                         isFound = true;
                     }
@@ -180,11 +188,19 @@ public abstract class FileDao<E> implements Dao<E> {
 
     @Override
     public boolean create(E entity) {
+        if (isPresent(entity)) {
+            update(entity);
+            return true;
+        }
+
         var entitiesMap = getEntitiesMap();
         var mapEntity = new LinkedHashMap<String, Object>();
         for (var field : entity.getClass().getDeclaredFields()) {
             field.setAccessible(true);
             try {
+                if (field.getName().equals("id") && field.get(entity) == null) {
+                    field.set(entity, ++sequence);
+                }
                 mapEntity.put(field.getName(), field.get(entity));
             } catch (IllegalAccessException e) {
                 return false;
@@ -192,9 +208,7 @@ public abstract class FileDao<E> implements Dao<E> {
         }
         for (var map : entitiesMap) {
             if (map.get("id").equals(mapEntity.get("id").toString())) {
-                for (var key : map.keySet()) {
-                    map.put(key, mapEntity.get(key));
-                }
+                map.replaceAll((k, v) -> mapEntity.get(k));
                 writeEntitiesMap(entitiesMap);
                 return true;
             }
@@ -204,4 +218,5 @@ public abstract class FileDao<E> implements Dao<E> {
         writeEntitiesMap(entitiesMap);
         return true;
     }
+
 }

@@ -1,15 +1,15 @@
-package org.vsu.rudakov.responce.file;
+package org.vsu.rudakov.responce.console;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.vsu.rudakov.MainConsoleAppTestRunner;
+import org.vsu.rudakov.TestMainConsoleAppRunner;
 import org.vsu.rudakov.model.Child;
 import org.vsu.rudakov.responce.Response;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-@RunWith(MainConsoleAppTestRunner.class)
+@RunWith(TestMainConsoleAppRunner.class)
 public class PostResponseTest extends ResponseTest {
     private final Response get;
     private final Response post;
@@ -27,9 +27,9 @@ public class PostResponseTest extends ResponseTest {
                 post);
         assertTrue((boolean) postRes.get(0));
         var entity = (Child) getResponse("child/500 -get", get).get(0);
-        assertEquals(entity.getId(), 500);
+        assertEquals(entity.getId(), Long.valueOf(500));
         assertEquals(entity.getFirstName(), "петр");
         assertEquals(entity.getLastName(), "пупкин");
-        assertEquals(entity.getGroupNumber(), 2);
+        assertEquals(entity.getGroupNumber(), Integer.valueOf(2));
     }
 }
