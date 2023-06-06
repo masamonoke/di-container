@@ -1,6 +1,5 @@
 package org.vsu.rudakov.configuration;
 
-import org.vsu.rudakov.app.*;
 import org.vsu.rudakov.dao.ChildDao;
 import org.vsu.rudakov.dao.EducatorDao;
 import org.vsu.rudakov.dao.file.ChildFileDao;
