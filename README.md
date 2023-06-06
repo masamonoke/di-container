@@ -1,5 +1,5 @@
 # Overview
-This is a pet project in which I tried to implement a container that is similiar to Spring Boot assembeles project. 
+This is a pet project in which I tried to implement a DI container that is similiar to how Spring Boot prepeares project. 
 To use you need to type API mappings in pseudo http requests manner that is descriped is usage section. Before start application 
 assembles bean map and creates global context that can be used for injections when using annotations like ```@Inject``` or ```@DataAccessObject```
 
