@@ -21,3 +21,5 @@ assembles bean map and creates global context that can be used for injections wh
 <pre><code>$ child -post [child={id: 3, firstName: петр, lastName: пупкин, groupNumber: 2}]</code></pre> 
 <p>To delete child with id 1</>
 <pre><code>$ child/1 -delete</code></pre> 
+
+To make changes to configuration edit ```src/main/resources/properties.conf``` file
