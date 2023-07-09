@@ -16,7 +16,7 @@ assembles bean map and creates global context that can be used for injections wh
 <p>To get child entity with id 1</>
 <pre><code>$ child/1 -get</code></pre> 
 <p>To update child entity with id 1 with data passed in payload</>
-<pre><code>$ child -update [child={id: 1, firstName: peter, lastName: pupkin, groupId: 1}]</code></pre> 
+<pre><code>$ child -update [child={id: 1, firstName: peter, lastName: pupkin, groupNumber: 1}]</code></pre> 
 <p>To save new entity with data passed in payload</>
 <pre><code>$ child -post [child={id: 3, firstName: петр, lastName: пупкин, groupNumber: 2}]</code></pre> 
 <p>To delete child with id 1</>
